@@ -2,7 +2,7 @@
 
 A web app to showcase your favorite content creators built with React and Supabase.
 
-## Video Walkthrough
+[## Video Walkthrough](https://youtu.be/K8T1uNT4kx8)
 
 [Add your video link here after recording]
 
